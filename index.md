@@ -9,7 +9,7 @@
 
 - [Character & Description](01-character-description/character-description)
 
-- [voice-tone](04-voice-tone/VI chapter)
+- [Voice-tone](04-voice-tone/VI chapter.md)
 
 - [Presentation-stoytelling](05-presentation-stoytelling/Presentation-stoytelling)
 
