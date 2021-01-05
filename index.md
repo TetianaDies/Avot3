@@ -9,3 +9,5 @@
 - [Voice-tone](04-voice-tone/voice-tone)
 
 - [Presentation-stoytelling](05-presentation-stoytelling/presentation-stoytelling)
+
+- [Semester-takeaways](06-semester-takeaways/semester-takeaways)
