@@ -1,1 +1,2 @@
-- [01-character-description/character-description](Character & Description)
+- [Character & Description](01-character-description/character-description)
+
