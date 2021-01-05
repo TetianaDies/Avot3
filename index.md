@@ -3,13 +3,13 @@
 - [About](02-intentional-aboutness/about)
 - [Case Study](02-intentional-aboutness/case-study)
 
-- [Cv_img&text](03-cv/Cv_img&text)
+- [Cv](03-cv/Cv_img&text)
 
 ## Work
 
 - [Character & Description](01-character-description/character-description)
 
-- [Voice-tone](04-voice-tone/VI chapter)
+- [VI chapter](04-voice-tone/VI chapter)
 
 - [Presentation-stoytelling](05-presentation-stoytelling/Presentation-stoytelling)
 
