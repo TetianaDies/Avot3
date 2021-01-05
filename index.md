@@ -3,7 +3,7 @@
 - [About](02-intentional-aboutness/about)
 - [Case Study](02-intentional-aboutness/case-study)
 
-- [Cv](03-cv/Cv_img&text)
+- [Cv_img&text](03-cv/Cv_img&text)
 
 ## Work
 
