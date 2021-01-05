@@ -9,7 +9,7 @@ Before doing something, we always look at what has already been done before us. 
 # Copy is learning
 When I started to work like a designer, I also try to copy some art, to learn some new style. For example, at the university we had a task to copy the works of one famous artist to understand how he used color, shadows, contrast in his works.
 
-<img src="/img/Tetiana_Denysova_CopyArt.jpg"> 
+<img src="./img/Tetiana_Denysova_CopyArt.jpg"> 
 
 
 
