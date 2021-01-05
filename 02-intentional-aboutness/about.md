@@ -2,7 +2,7 @@
 
 Loves creative challenges, learning new thing, and helping others to shape their vision.
 
-## Hello! :smiley:
+## Hello! 
 My name is Tetiana, 
 a graphic designer and illustrator based in Prague. 
 Recently I’ve been working with different clients and brands: designing books,
