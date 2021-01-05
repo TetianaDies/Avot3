@@ -1,6 +1,6 @@
 # Tetiana Denysova
 
-- [About me](02-intentional-aboutness/intentional-aboutness)
+- [02-intentional-aboutness](02-intentional-aboutness/intentional-aboutness)
 
 - [Cv](03-cv/cv)
 
