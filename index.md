@@ -1,6 +1,7 @@
 # Tetiana Denysova
 
-- [Intentional-aboutness](02-intentional-aboutness/intentional-aboutness)
+- [About](02-intentional-aboutness/about)
+- [Case Study](02-intentional-aboutness/case-study)
 
 - [Cv](03-cv/cv)
 
