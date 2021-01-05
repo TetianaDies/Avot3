@@ -1,4 +1,4 @@
- # Vital project
+# Vital project
  
 In 2015, I had the opportunity to work as a designer, illustrator, and photographer to bring a charity project to life 
 that was simple and true, a basic but essential guiding design principle. The focus of the charity project The World 
