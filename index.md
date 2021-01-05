@@ -13,3 +13,5 @@
 - [Presentation-stoytelling](05-presentation-stoytelling/presentation-stoytelling)
 
 - [Semester-takeaways](06-semester-takeaways/semester-takeaways)
+
+<img src="./07-fun/img/ESC.jpg">
