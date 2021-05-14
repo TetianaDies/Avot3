@@ -21,4 +21,8 @@
 
 - [Abstract-draft](07-abstract-draft/thesis-abstract-draft.md)
 
+- [Summary-details](08-summary-details/thesis-summary-details.md)
+
+
+
 <img src="./07-fun/img/ESC.jpg">
