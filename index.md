@@ -5,7 +5,7 @@
 
 - [Cv](03-cv/Cv_img&text)
 
-## Work
+## Winter semester
 
 - [Character & Description](01-character-description/character-description)
 
@@ -14,5 +14,7 @@
 - [Presentation-stoytelling](05-presentation-stoytelling/Presentation-stoytelling)
 
 - [Semester-takeaways](06-semester-takeaways/semester-takeways)
+
+## Summer semester
 
 <img src="./07-fun/img/ESC.jpg">
