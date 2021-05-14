@@ -19,4 +19,6 @@
 
 - [Clarity-first](06-clarity-first/thesis-outline.md)
 
+- [Abstract-draft](07-abstract-draft/thesis-abstract-draft.md)
+
 <img src="./07-fun/img/ESC.jpg">
