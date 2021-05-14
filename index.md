@@ -17,4 +17,6 @@
 
 ## Summer semester
 
+- [Clarity-first](06-clarity-first/clarity-first)
+
 <img src="./07-fun/img/ESC.jpg">
