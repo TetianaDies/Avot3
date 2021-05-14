@@ -7,7 +7,7 @@
 
 ## Winter semester
 
-- [Character & Description](01-character-description/character-description)
+- [Character & Description](01-character-description/character-description.md)
 
 - [Voice-tone](04-voice-tone/VI chapter)
 
