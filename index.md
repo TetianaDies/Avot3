@@ -23,6 +23,8 @@
 
 - [Summary-details](08-summary-details/thesis-summary-details.md)
 
+- [Animation](09-animation/video.md)
+
 
 
 <img src="./07-fun/img/ESC.jpg">
