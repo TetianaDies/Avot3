@@ -25,6 +25,6 @@
 
 - [Animation](09-animation/video.md)
 
-
+- [Presentation](10-presentation/Presentation_pdf.pdf)
 
 <img src="./07-fun/img/ESC.jpg">
