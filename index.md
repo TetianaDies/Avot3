@@ -17,6 +17,6 @@
 
 ## Summer semester
 
-- [Clarity-first](06-clarity-first/clarity-first)
+- [Clarity-first](06-clarity-first/thesis-outline.md)
 
 <img src="./07-fun/img/ESC.jpg">
