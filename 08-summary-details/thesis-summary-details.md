@@ -23,39 +23,39 @@ As we agreed, I received a small text that was written in the form of emails. Th
 I was mainly inspired by Lois van Baarle. She is a digital artist and character designer from Netherlands, mostly used purple in the illustrations and it looks like new and modern drawing technique. The main character she draws is a girl it inspired me, because in the book that I make, the main heroine is a young girl. When I was thinking about which drawing technique to choose, I noticed that the combination of real photography with vector graphics or a collage is very popular on social networks. In the end, I tried to combine photo and vector, which allowed me to create authorial illustrations.
 
 
-<img src="/img/Inspiration_first.png" width="400">
+<img src="./img/Inspiration_first.png" width="400">
 
 
 # Work in process
 The hardest part is starting to draw, because the first illustration determines what the other pages will look like. During the creation of the first illustration, I rehearsed as the main heroine will look. Whether her face will be hidden or revealed on the first page. In the end, we chose the last variant.
 
-<img src="/img/Illustration_first_steps.png" width="1200">
+<img src="./img/Illustration_first_steps.png" width="1200">
 
 # Illustration 
 To illustrate the story, I chose a mixed style of photo collage and vector graphics. This mix of techniques also connects the main point in the book that the real world and contemporary life have largely moved into the virtual world and people live in a similar way as in a fictional world. Typography in typesetting is supported by emoticons that suggest and illustrate the narrator's mood. The beginning of each e-mail is taken into account in the text for better orientation in the text, and the avatar next to each e-mail also helps to visually distinguish the main characters in the book. I chose four main illustrations for the example, because there are 12 of them in total. I blurred the text because I gave my consent to non-proliferation.
 
-<img src="/img/Illustration.png" width="800">
+<img src="./img/Illustration.png" width="800">
 
 
 # Book cover
 The cover of the book depicts the shadow of the main character, on whom she cries with emoticons, which symbolizes cyberbullying. As you can see in the picture, the cover had many variants, it took a long time to choose the font and background and other details.
 
-<img src="/img/Covers.png" width="400">
+<img src="./img/Covers.png" width="400">
 
 The cover was originally yellow-blue because the writer liked this choice of color. But after all the illustrations were drawn, the color changed to purple. At the moment this is the final version.
 
-<img src="/img/Cover.png" width="800">
+<img src="./img/Cover.png" width="800">
 
 # Edition
 
 The story doesn't end with one book, so I designed other covers for a possible continuation of the story of Ammonita.
 
 
-<img src="/img/Edition.png" width="800">
+<img src="./img/Edition.png" width="800">
 
 # Feedback
 
-<img src="/img/Feedback.png" width="600">
+<img src="./img/Feedback.png" width="600">
 
 # Conclusion
 
